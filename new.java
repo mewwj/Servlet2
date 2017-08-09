@@ -1,2 +1,3 @@
-package oneï¿½ï¿½
+package one£»
 main
+syso
